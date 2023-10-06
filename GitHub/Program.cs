@@ -16,6 +16,11 @@ class Programa
         if(resultado == 2) { Console.WriteLine("Número Inválido: "); }
         if(resultado == 3) { Console.WriteLine("Número Inválido: "); }
 
+        for(int i = 0;i < num; i++)
+        {
+            Console.WriteLine(i);
+        }
+
         Console.WriteLine($"O resultado dessa multiplicação é: {resultado}");
 
         Console.ReadKey();
