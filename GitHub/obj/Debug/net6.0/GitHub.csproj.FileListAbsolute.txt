@@ -1,0 +1,15 @@
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\bin\Debug\net6.0\GitHub.exe
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\bin\Debug\net6.0\GitHub.deps.json
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\bin\Debug\net6.0\GitHub.runtimeconfig.json
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\bin\Debug\net6.0\GitHub.dll
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\bin\Debug\net6.0\GitHub.pdb
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.csproj.AssemblyReference.cache
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.AssemblyInfoInputs.cache
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.AssemblyInfo.cs
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.dll
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\refint\GitHub.dll
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.pdb
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\GitHub.genruntimeconfig.cache
+C:\Users\2023102020037\Desktop\Git\GitHub\GitHub\obj\Debug\net6.0\ref\GitHub.dll
